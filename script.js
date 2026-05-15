@@ -1,4 +1,4 @@
-const API_KEY = "2b815237f3a0229f4a8f111d9d7e2b92";
+const API_KEY = "YOUR_API_KEY";
 
 const Input = document.querySelector(".searchbar input");
 const searchBtn = document.querySelector(".searchbar button");
